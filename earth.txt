@@ -1,1 +1,2 @@
-Earth is a pale blue dot
+Earth is a pale blue dot.
+it also has a magnetic field.
